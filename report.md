@@ -10,7 +10,7 @@ To solve the environment we used the following network architectures:
 
 
 <p align="center">
-  <img width="460" height="300" src="plots/networks.png">
+  <img width="650" height="500" src="plots/networks.png">
 </p>
 
 
