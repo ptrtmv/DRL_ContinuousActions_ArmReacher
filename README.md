@@ -33,3 +33,8 @@ Additionally you may need to install following packages:
 
 The packages can be directly installed while running the **Jupiter** notebook `ContinuousControl.ipynb`
 
+
+
+## Instructions
+
+You can run the project via the **Jupiter** notebook `ContinuousControl.ipynb`. The classes defining the agent and its "brain" are stored in `agent.py` and the depp neural networks for the actor and the critic are defined in `model.py`.
